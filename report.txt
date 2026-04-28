@@ -1,0 +1,24 @@
+URL: https://google.com
+---------------------
+[MISSING] Content-Security-Policy
+[OK] X-Frame-Options
+[MISSING] Strict-Transport-Security
+[MISSING] X-Content-Type-Options
+[MISSING] Referer-Policy
+
+URL: https://github.com
+---------------------
+[OK] Content-Security-Policy
+[OK] X-Frame-Options
+[OK] Strict-Transport-Security
+[OK] X-Content-Type-Options
+[MISSING] Referer-Policy
+
+URL: https://checkmarx.com
+---------------------
+[MISSING] Content-Security-Policy
+[MISSING] X-Frame-Options
+[MISSING] Strict-Transport-Security
+[MISSING] X-Content-Type-Options
+[MISSING] Referer-Policy
+
